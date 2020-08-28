@@ -1,0 +1,2 @@
+rootProject.name='DynamicEditText'
+include ':app'
